@@ -1,16 +1,28 @@
 ### Hi 👋, I'm Amesh 👋
 
-<!--
-**ameshrathnayaka/ameshrathnayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate frontend developer from Sri Lanka
+buddhilive
 
-Here are some ideas to get you started:
+🔭 I’m currently working on Project Berkelium
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Machine Learning and UX
+
+📝 I regularly write articles on https://www.buddhilive.com/
+
+📄 Know about my experiences https://www.linkedin.com/in/buddhik/
+
+
+Connect with me:
+buddhilive buddhik buddhilive https://www.buddhilive.com/feeds/posts/default
+
+
+Languages and Tools I use
+angular cypress firebase javascript linux mysql nodejs python sass scikit_learn tensorflow typescript
+
+
+
+Buddhi Kavindra's github stats
+
+Top Langs
+
+Buddhi Kavindra's github trophies
