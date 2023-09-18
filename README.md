@@ -2,24 +2,24 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buddhilive&" alt="buddhilive" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameshrathnayaka&" alt="ameshrathnayaka" />
 </p>
 
 - 🔭 I’m currently working on [Project Berkelium](https://github.com/BerkeliumLabs/berkelium-dev-kit)
 
 - 🌱 I’m currently learning **Machine Learning** and **UX**
 
-- 📝 I regularly write articles on [https://www.buddhilive.com/](https://www.buddhilive.com/)
+- 📝 I regularly write articles on [https://www.ameshrathnayaka.com/](https://www.ameshrathnayaka.com/)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/buddhik/](https://www.linkedin.com/in/buddhik/)
 
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/buddhilive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="buddhilive" height="30" width="40" /></a>
+<a href="https://twitter.com/ameshrathnayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ameshrathnayaka" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/buddhik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="buddhik" height="30" width="40" /></a>
-<a href="https://kaggle.com/buddhilive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="buddhilive" height="30" width="40" /></a>
-<a href="/https://www.buddhilive.com/feeds/posts/default" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.buddhilive.com/feeds/posts/default" height="30" width="40" /></a>
+<a href="https://kaggle.com/ameshrathnayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ameshrathnayaka" height="30" width="40" /></a>
+<a href="/https://www.ameshrathnayaka.com/feeds/posts/default" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.ameshrathnayaka.com/feeds/posts/default" height="30" width="40" /></a>
 </p>
 </br>
 
@@ -30,11 +30,11 @@
 </br>
 </br>
 
-![Buddhi Kavindra's github stats](https://github-readme-stats.vercel.app/api?username=Buddhilive&show_icons=true&theme=radical&count_private=true)
+![Buddhi Kavindra's github stats](https://github-readme-stats.vercel.app/api?username=ameshrathnayaka&show_icons=true&theme=radical&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhilive&layout=compact&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhilive&layout=compact&langs_count=10)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameshrathnayaka&layout=compact&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=ameshrathnayaka&layout=compact&langs_count=10)
 
-![Buddhi Kavindra's github trophies](https://github-profile-trophy.vercel.app/?username=buddhilive)
+![Buddhi Kavindra's github trophies](https://github-profile-trophy.vercel.app/?username=ameshrathnayaka)
 </br>
 
 
